@@ -1,2 +1,0 @@
-:HL["/QCresume/static-site/_next/static/chunks/cfa2a6b4eb74c7b3.css","style"]
-0:{"buildId":"RMOjFkQv7_7Mc4YFW1cPA","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
